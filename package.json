@@ -1,5 +1,5 @@
 {
-  "name": "github-npm-package",
+  "name": "@danishshaikh9702/github-npm-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,5 +11,8 @@
   },
   "keywords": [],
   "author": "",
+  "repository": {
+    "url": "git://github.com/danishshaikh9702/github-npm-package.git"
+  },
   "license": "ISC"
 }
