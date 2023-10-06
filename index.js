@@ -1,7 +1,7 @@
 const sayHello=(name)=>{
 console.log(`hello ${name} !`)
 }
-module.export={
+module.exports={
     sayHello
 }
 
